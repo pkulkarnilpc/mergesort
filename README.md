@@ -21,6 +21,6 @@ After Sorting:
 
 1. What is the time complexity of Merge Sort?
 2. Why does Merge Sort work well with linked lists?
-3. Is Merge Sort stable? Explain.
+3. Is Merge Sort stable? 
 4. What extra memory does Merge Sort require?
 
